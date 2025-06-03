@@ -115,6 +115,8 @@ Compared to a reference study with 7,000 more training samples and a hybrid loss
 - TensorFlow 
 - NumPy, Matplotlib, nibabel, Pillow
 
+---
+
 ## References
 Chandra, Anjali, Verma, Shrish, Raghuvanshi, Ajay, & Bodhey, Narendra. (2022). CCsNeT: Automated Corpus Callosum segmentation using fully convolutional network based on U-Net. Biocybernetics and Biomedical Engineering, 42. https://doi.org/10.1016/j.bbe.2021.12.008
 
